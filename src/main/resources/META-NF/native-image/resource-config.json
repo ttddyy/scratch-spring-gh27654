@@ -1,8 +1,2 @@
 {
-  "resources": [
-    {
-      "pattern": "\\Qstatic/index.html\\E"
-    }
-  ],
-  "bundles": []
 }
